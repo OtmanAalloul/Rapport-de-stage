@@ -44,7 +44,9 @@ En somme quatre facteurs facilitent l’apprentissage : l’attention, l’engag
 Depuis le début des années 2000, les outils technologiques se sont introduits petit à petit dans le monde de l’éducation, permettant avant tout d’élargir l’accès à la connaissance, qui peut toucher dorénavant tous ceux qui ont un accès à internet.
 
 Il nous a paru tout naturel d’utiliser cette formidable opportunité qu’offre le digital pour digitaliser cette pédagogie sous la forme d'une application mobile, ce qui l’objectif de notre projet.
+
 L’objectif de notre projet est de construire une application mobile sous la forme d’un jeu sérieux dédie aux enfants de 3 à 7 ans conçu sur la pédagogie Montessori, ce jeu propose aux enfants de solides bases pour les apprentissages essentiels que sont la lecture, l'écriture et les sciences. Notre application promeut en plus les arts et la créativité et propose des activés ludiques très variées dans un environnement graphique attrayant.    
+
 Les enfants de 3 à 7 ans vont raffoler de cet univers où ils peuvent naviguer d'une activité à l'autre dans un environnement familier puisqu'il s'agit d'une école. Ils vont participer aux activités, gagner des points pour rester motivés et beaucoup d’autres fonctionnalités, nous discuterons en détails dans le chapitre dédie à la réalisation de l’application. 
 
 
