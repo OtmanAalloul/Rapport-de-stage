@@ -1,0 +1,102 @@
+   ------> L'objectif du projet :
+
+---> Introduction :
+	L’éducation préscolaire est aujourd’hui considérée comme un
+	outil essentiel à la réalisation de l’enseignement primaire universel et des
+	objectifs de développement durable (ODD). l’objectif de la pedagogie Montessori
+	consacre que le jeu est l’un des moyens les plus efficaces pour permettre aux enfants
+	d’acquérir les connaissances et les compétences essentielles. C’est pourquoi les possibilités de jeu et
+	les environnements favorisant le jeu, la découverte et l’apprentissage pratique sont au cœur des programmes
+	d’éducation préscolaire qui fonctionnent. 
+	La phrase "Les enfants acquièrent des compétences essentielles et se développent lorsqu’ils jouent" est-elle vraie ?
+	La reponse à cette question aura traiter dans le paragraphe suivant.
+
+---> Pourquoi un jeu ?
+
+---> Le jeu a du sens :
+	Les enfants jouent pour
+	donner du sens au monde qui
+	les entoure, et pour trouver
+	une signification à ce qu’ils
+	vivent en le reliant à ce qu’ils
+	connaissent déjà. À travers le
+	jeu, les enfants expriment et
+	élargissent la compréhension
+	de leurs expériences.
+
+---> Le jeu est joyeux : 
+	Observez des enfants – ou des
+	adultes – en train de jouer ; souvent,
+	ils rient ou sourient. Bien sûr, le jeu
+	peut être source de frustrations et
+	de contraintes (Qui commence ?
+	Pourquoi je n’arrive pas à faire tenir
+	ce bloc de construction ?), mais
+	le sentiment général qui domine
+	est celui de joie, de motivation,
+	d’excitation et de plaisir.
+
+---> Le jeu implique une participation active :
+	Si vous regardez des
+	enfants en train de jouer,
+	vous constaterez qu’ils sont
+	généralement très impliqués
+	dans ce qu’ils font, souvent
+	aussi bien physiquement que
+	mentalement et verbalement.
+
+---> Le jeu est un processus itératif :
+	Le jeu et l’apprentissage ne
+	sont pas statiques. Les enfants
+	jouent pour mettre en pratique
+	des compétences, expérimenter
+	des possibilités, réviser des
+	hypothèses et se confronter à
+	de nouveaux défis, ce qui leur
+	permet d’approfondir leurs
+	connaissances.
+
+---> Le jeu implique une interaction sociale :
+	Le jeu permet aux enfants
+	de communiquer leurs
+	idées et de comprendre les
+	autres grâce aux interactions
+	sociales, ouvrant ainsi
+	la voie à une meilleure
+	compréhension d’autrui et à
+	des relations plus solides.
+
+---> En bref :
+	Quand un enfant décide de jouer, il ne se dit pas « Maintenant, je vais apprendre quelque chose grâce
+	à cette activité ». Or le jeu offre d’excellentes possibilités d’apprentissage, et ce dans tous les
+	domaines du développement. Plus généralement, le jeu satisfait le besoin humain de laisser s’exprimer son imagination, sa curiosité
+	et sa créativité. Dans ce contexte notre projet consiste à réaliser une bibliothèque de jeux éducatifs (jeux sérieux) complémentaires.
+	autrement dit le but premier du projet est de créer une application mobile, flexible et éducative, afin de donner aux enfants la capacité 
+	d’agir sur leur expérience et de la maîtriser, ainsi à résoudre les conflits et pour renforcer leurs capacités de résilience et d’adaptation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
