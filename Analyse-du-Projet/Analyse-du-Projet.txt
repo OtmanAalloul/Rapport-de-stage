@@ -1,0 +1,108 @@
+   ------> Analyse du projet :
+
+---> Introduction :
+
+	L’éducation préscolaire est aujourd’hui considérée comme un
+	outil essentiel à la réalisation de l’enseignement primaire universel et des
+	objectifs de développement durable (ODD). l’objectif de la pedagogie Montessori
+	consacre que le jeu est l’un des moyens les plus efficaces pour permettre aux enfants
+	d’acquérir les connaissances et les compétences essentielles. C’est pourquoi les possibilités de jeu et
+	les environnements favorisant le jeu, la découverte et l’apprentissage pratique sont au cœur des programmes
+	d’éducation préscolaire qui fonctionnent. 
+	La phrase "Les enfants acquièrent des compétences essentielles et se développent lorsqu’ils jouent" est-elle vraie ?
+	La reponse à cette question aura traiter dans le paragraphe suivant.
+
+---> Le jeu et son importance pour l’apprentissage :
+
+	L’un des aspects importants du jeu réside dans le fait qu’il donne aux enfants la capacité d’agir sur leur expérience et de la maîtriser. 
+	Cette faculté d’action fait référence à la capacité des enfants, lorsqu’ils jouent, à prendre des initiatives, à décider par eux-mêmes et 
+	à faire leurs propres choix. 
+	Au fond, le jeu doit donner aux enfants un certain pouvoir d’action, d’une part en leur permettant de s’approprier 
+	leurs expériences et d’y jouer un rôle actif, et d’autre part en faisant confiance à leur capacité à se montrer autonomes et acteurs de leur 
+	parcours ludique d’apprentissage.
+	Ajoutant pour ça le fait que Le jeu est joyeux, Observez des enfants ou des adultes en train de jouer ; souvent, ils rient ou sourient. 
+	Bien sûr, le jeu peut être source de frustrations et de contraintes (Qui commence ? Pourquoi je n’arrive pas à faire tenir ce bloc de construction ?), 
+	mais le sentiment général qui domine  est celui de joie, de motivation. De plus Le jeu a du sens, Les enfants jouent pour donner du sens au 
+	monde qui les entoure, et pour trouver une signification à ce qu’ils vivent en le reliant à ce qu’ils connaissent déjà. À travers le jeu, 
+	les enfants expriment et élargissent la compréhension de leurs expériences.
+	Par la suite Le jeu est un processus itératif, Le jeu et l’apprentissage ne sont pas statiques. Les enfants jouent pour mettre en pratique 
+	des compétences, expérimenter des possibilités, réviser des hypothèses et se confronter à de nouveaux défis, ce qui leur permet d’approfondir 
+	leurs connaissances.
+
+---> L'efficacité d'apprentissage par le jeu :
+
+	Comparé au travail, le jeu est perçu comme une activité amusante et délassante, ce qui lui confère un caractère plaisant aux yeux des enfants 
+	et accentue, de facto, son efficacité. De fait, le jeu est une activité choisie, contrairement au travail qui est perçu comme imposé par autrui. 
+	Le jeu devient synonyme de délassement, de plaisir, tandis que le travail n’est que labeur et contrainte. Contrairement au travail qui a un objectif 
+	et un résultat précis, on n’attend pas d’effets d’un jeu, on le vit et on y trouve du plaisir. Le jeu devient alors un support idéal pour permettre 
+	l’acquisition de compétences parfois difficiles à acquérir à travers le travail traditionnel. En effet, le jeu a de multiples atouts :
+		+ il motive l’enfant, facilite sa concentration et stimule sa mémoire;
+		+ il rend actif en classe, là où l’élève reste souvent passif. L’enfant est acteur de sa ré- flexion, de sa stratégie, 
+		  il collabore et partage avec ses partenaires;
+		+ le jeu modifie et démocratise le rapport au savoir: l’enfant est moins soumis au stress, à la peur de l’erreur et de 
+		  l’échec car le jeu est basé sur des règles connues de tous et parfois sur le hasard;
+		+ le jeu incite l’élève à verbaliser sa pensée, à argumenter ses choix et, donc, l’aide à perfectionner son langage;
+		+ le jeu permet à l’enfant de développer des méthodes de travail, de suivre une logique, un raisonnement;
+		+ le jeu permet de stimuler diverses compétences en même temps: le verbal, le mental, la logique, le calcul…
+		+ le jeu donne à l’enfant un but précis, concret et l’incite à s’impliquer dans celui-ci.
+
+---> En bref :
+
+	Le jeu est donc un support de choix dans le domaine des apprentissages, car il mobilise un grand nombre de capacités cognitives et 
+	permet une différenciation pédagogique qui porte ses fruits auprès de jeunes parfois en perte de vitesse face aux méthodes classiques 
+	d’instruction. Le jeu devient un moteur au savoir, il motive l’élève à aller de l’avant et ce dans toutes les matières. Comme le souligne 
+	Ryngaert, le jeu permet de conforter le «désir d’apprendre» et le «plaisir de savoir»5 . La notion de plaisir d’apprendre des jeunes est 
+	centrale dans la démarche de l’apprentissage par le jeu. Le jeu est donc un moyen ludique et éducatif au service des apprentissages scolaires 
+	qu’il serait dommage d’ignorer.
+
+
+
+---> Le livre Teach Me to Do it Myself :
+
+	Basé sur le principe Montessori clé selon lequel les enfants apprennent mieux grâce à une expérience active, Teach Me to Do It Myself 
+	présente des activités simples à travers lesquelles les enfants explorent et développent leurs compétences. Ces domaines de compétence 
+	comprennent les perceptions sensorielles, la coordination corporelle, le langage, la compréhension des nombres et le mouvement. Ce livre 
+	parental pratique et illustré en couleurs est rempli d'activités et d'instructions pour superviser les enfants pendant qu'ils effectuent 
+	une variété d'activités d'apprentissage. La plupart des activités sembleront simples aux parents, car une fois maîtrisées, les adultes 
+	les exécutent automatiquement. Cependant, les tout-petits éprouvent un sentiment d'accomplissement et d'estime de soi lorsqu'ils apprennent 
+	à les exécuter de manière indépendante. Les nombreuses activités commencent par l'habillage et l'hygiène personnelle, puis incluent. . .
+
+
+
+---> Cahier des charges :
+
+
+
+
+---> Solution proposée : 
+
+	Dans ce contexte notre projet consiste à réaliser une bibliothèque de jeux éducatifs (jeux sérieux) complémentaires.
+	autrement dit le but premier du projet est de créer une application mobile, flexible et éducative, afin de donner aux enfants la capacité 
+	d’agir sur leur expérience et de la maîtriser, ainsi à résoudre les conflits et pour renforcer leurs capacités de résilience et d’adaptation.
+
+
+
+---> Description generale du projet :
+
+	choix des 4 fiches, et leurs contenus........
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
