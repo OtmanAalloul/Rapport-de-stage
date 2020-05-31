@@ -69,7 +69,12 @@
 
 
 
----> Cahier des charges :
+---> Les objectifs du projet :
+	
+	
+	
+
+
 
 
 
@@ -84,7 +89,7 @@
 
 ---> Description generale du projet :
 
-	choix des 4 fiches, et leurs contenus........
+	
 
 
 
