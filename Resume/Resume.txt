@@ -1,0 +1,24 @@
+
+
+---> Resume :
+		
+	Ce document est le résultat de notre travail dans le cadre du projet de fin d’étude effectué
+	à la faculté des sciences Semlalia, a pour but la conception et la réalisation d'une application mobile 
+	des jeux sérieux éducatifs, basés sur un ensemble de technologies afin de permettre aux eleves de developper
+	leurs competences prescolaires.
+
+	Autrement dit, de nombreuses décisions doivent être faites pour bien accomplir l’objectif principal : 
+	réaliser un projet final pédagogique qui soit beau et pleinement fonctionnel. Ayant proposé nos propres idées de jeux, 
+	nous devons établir le cahier des charges initial, ainsi que concevoir en équipe le principe des jeux. 
+	Le temps est un facteur principal et difficile à gérer surtout dans cette crise. 
+	De plus, cela rassemble beaucoup de domaines (développement, graphisme, design, son...), qui 
+	nécessitent une formation lorsqu’ils ne sont pas maîtrisés.
+
+	Pour mener à bien ce projet, nous avons travaillé en binôme. On a commencé par
+	l’identification de la problématique puis une étude d'existante, suivi d’une analyse
+	approfondie du projet dans le but d’identifier les besoins fonctionnels et techniques
+	auxquels la solution proposée doit répondre.
+
+	En fin on a entamé au developpement qui est generalement resté à la derniere phase de la realisation du projet.
+
+	
