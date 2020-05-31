@@ -1,0 +1,8 @@
+	---> Glossaire :
+
+	+ Unity : Moteur de jeu développé par Unity Technologies depuis 2004.
+	+ Asset : generalement tout ce qui compose le projet, que ce soit fichier de code, d'image, shader, model3d, animation...
+	+ Fungus : Fungus est un outil qui permet d'ajouter facilement des personnages colorés et de créer des histoires captivantes dans votre jeu.
+	+ Scrum : méthode dédiée à la gestion des projets basée sur Agile, pratique de pilotage de projet répandue.
+
+	
