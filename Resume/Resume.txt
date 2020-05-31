@@ -2,23 +2,13 @@
 
 ---> Resume :
 		
-	Ce document est le résultat de notre travail dans le cadre du projet de fin d’étude effectué
-	à la faculté des sciences Semlalia, a pour but la conception et la réalisation d'une application mobile 
-	des jeux sérieux éducatifs, basés sur un ensemble de technologies afin de permettre aux eleves de developper
-	leurs competences prescolaires.
 
-	Autrement dit, de nombreuses décisions doivent être faites pour bien accomplir l’objectif principal : 
-	réaliser un projet final pédagogique qui soit beau et pleinement fonctionnel. Ayant proposé nos propres idées de jeux, 
-	nous devons établir le cahier des charges initial, ainsi que concevoir en équipe le principe des jeux. 
-	Le temps est un facteur principal et difficile à gérer surtout dans cette crise. 
-	De plus, cela rassemble beaucoup de domaines (développement, graphisme, design, son...), qui 
-	nécessitent une formation lorsqu’ils ne sont pas maîtrisés.
+Ce document est le rÃ©sultat de notre travail dans le cadre du projet de fin dâ€™Ã©tude effectuÃ© Ã  la facultÃ© des sciences Semlalia, a pour but la conception et la rÃ©alisation d'une application mobile multi-plateformes des jeux sÃ©rieux Ã©ducatifs basÃ©s sur la pÃ©dagogie Montessori, ainsi sur un ensemble de technologies afin de permettre aux enfants de dÃ©velopper leurs compÃ©tences prÃ©scolaires, ainsi la capacitÃ© dâ€™agir sur leur expÃ©rience et de la maÃ®triser.
 
-	Pour mener à bien ce projet, nous avons travaillé en binôme. On a commencé par
-	l’identification de la problématique puis une étude d'existante, suivi d’une analyse
-	approfondie du projet dans le but d’identifier les besoins fonctionnels et techniques
-	auxquels la solution proposée doit répondre.
+Le mÃ©rite de lâ€™idÃ©e de ce projet est Ã  notre professeur Pr E. Abdelwahed, crÃ©er des jeux sÃ©rieux Ã©ducatifs multi-plateformes, de sa conception jusquâ€™Ã  sa rÃ©alisation. Le thÃ¨me des jeux Ã©ducatifs a Ã©tÃ© dÃ©veloppÃ© avec le moteur de jeu Unity.
 
-	En fin on a entamé au developpement qui est generalement resté à la derniere phase de la realisation du projet.
+En analysant la problÃ©matique et lâ€™existant des solutions nous devons Ã©tablir le cahier des charges initial, ainsi que concevoir en Ã©quipe le principe des jeux. Le temps est un facteur principal et difficile Ã  gÃ©rer surtout dans cette crise Ã  cause du COVID-19. De plus, cela rassemble beaucoup de domaines (dÃ©veloppement, graphisme, design, son...), qui nÃ©cessitent une formation trÃ¨s professionnelle surtout dans le cas ou ils ne sont pas maÃ®trisÃ©s.
 
-	
+Pour mener Ã  bien ce projet, nous avons travaillÃ© en binÃ´me. On a commencÃ© par lâ€™identification de la problÃ©matique et lâ€™existant des solutions, suivi dâ€™une analyse approfondie du projet dans le but dâ€™identifier les besoins fonctionnels et techniques auxquels la solution proposÃ©e doit rÃ©pondre.
+
+En fin on a entamÃ© au dÃ©veloppement et la rÃ©alisation de lâ€™application qui est gÃ©nÃ©ralement restÃ© Ã  la derniÃ¨re phase de la rÃ©alisation du projet.
