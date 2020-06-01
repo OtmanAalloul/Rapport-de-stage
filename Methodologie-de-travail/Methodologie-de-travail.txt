@@ -1,51 +1,25 @@
 
 	---> Methodologie de travail :
-	
----> Introduction :
-	
-	La réussite et le suivi d’un projet informatique efficace nécessite plusieurs éléments et processus majeurs. 
-	Le premier d’entre eux concerne la définition d'une methodologie de travail.Cependant, de nombreux méthodes dédient
-	à la mise en place un projet informatique. Laquelle est meilleure pour la conception et la réalisation de notre projet ?
-	Pour nous, nous avons choisi la méthode agile Scrum a été choisi. Bien adapté pour le développement d’un projet pédagogique 
-	informatique et surtout à cause de notre contrainte principale : notre liberté sur les choix.
-
----> La méthode Scrum :
-
-	--> Definition :
-		Scrum est une méthode dédiée à la gestion des projets basée sur Agile, pratique de pilotage de projet répandue. 
-		Les trois piliers essentiels dans Scrum sont :
-
-			+ La transparence : Les rôles au sein d’une équipe Scrum ne sont pas déterminés entre les membres, chacun apporte 
-			  son savoir-faire. Cela facilite le partage des informations au sein du projet.
-			+ L’inspection : Scrum prévoit d’organiser régulièrement des inspections sur les artefacts produits afin de détecter 
-			  des comportements imprévus au sein du projet.
-			+ L’adaptation : Scrum fonctionne par des cycles de vie. A chaque début de cycle, sont réalisés une revue du cycle 
-			  précédent et une préparation du cycle suivant.
-	
-	--> Les rôles au sein d’une équipe Scrum :
-
-		Scrum définit trois rôles sur le projet :
-
-			+ Le Scrum Master (maître de mêlée). Il est le garant de la méthode, il s’assure que les principes et les valeurs de Scrum sont respectés. 
-			  Il facilite la communication au sein de l’équipe et il cherche à améliorer la productivité et le savoir-faire de l’équipe.
-			  (EL HASSAN ABDELWAHED).
-			+ Le Product Owner (propriétaire du produit). Il est le représentant du client. Expert métier, il définit les spécifications fonctionnelles. 
-			  Il établit la priorité des fonctionnalités à développer ou corriger. Il valide les fonctionnalités développées.
-			+ L’équipe de développement. Elle est le plus souvent composée de 6 à 10 personnes. Il n’y a pas de rôles prédéfinis au sein de l’équipe,
-			  (AMINE AMAACH & OUTMANE AALLOUL).
-
----> La gestion des taches :
+	La rÃ©ussite et le suivi dâ€™un projet informatique efficace nÃ©cessite plusieurs Ã©lÃ©ments et processus majeurs. Le premier dâ€™entre eux concerne la dÃ©finition d'une mÃ©thodologie de travail. Cependant, de nombreuses mÃ©thodes dÃ©dient Ã  la mise en place un projet informatique. Laquelle est meilleure pour la conception et la rÃ©alisation de notre projet ?
+Nous avons choisi la mÃ©thode agile Scrum, elle est bien adaptÃ© pour le dÃ©veloppement dâ€™un projet pÃ©dagogique informatique et surtout Ã  cause de notre contrainte principale qui la libertÃ© sur les choix.
+La mÃ©thode Scrum est une mÃ©thode dÃ©diÃ©e Ã  la gestion des projets basÃ©e sur Agile, pratique de pilotage de projet rÃ©pandue. 
+Les trois piliers essentiels dans Scrum sont :
+    1. La transparence : Les rÃ´les au sein dâ€™une Ã©quipe Scrum ne sont pas dÃ©terminÃ©s entre les membres, chacun apporte son savoir-faire. Cela facilite le partage des informations au sein du projet.
+    2. Lâ€™inspection : Scrum prÃ©voit dâ€™organiser rÃ©guliÃ¨rement des inspections sur les artefacts produits afin de dÃ©tecter des comportements imprÃ©vus au sein du projet.
+    3. Lâ€™adaptation : Scrum fonctionne par des cycles de vie. A chaque dÃ©but de cycle, sont rÃ©alisÃ©s une revue du cycle prÃ©cÃ©dent et une prÃ©paration du cycle suivant.
+Les rÃ´les au sein dâ€™une Ã©quipe Scrum sont dÃ©finit en trois rÃ´les principales :
+    1. Le Scrum Master (maÃ®tre de mÃªlÃ©e). Il est le garant de la mÃ©thode, il sâ€™assure que les principes et les valeurs de Scrum sont respectÃ©s. Il facilite la communication au sein de lâ€™Ã©quipe et il cherche Ã  amÃ©liorer la productivitÃ© et le savoir-faire de lâ€™Ã©quipe.
+    2. Le Product Owner (propriÃ©taire du produit). Il est le reprÃ©sentant du client. Expert mÃ©tier, il dÃ©finit les spÃ©cifications fonctionnelles. Il Ã©tablit la prioritÃ© des fonctionnalitÃ©s Ã  dÃ©velopper ou corriger. Il valide les fonctionnalitÃ©s dÃ©veloppÃ©es.
+    3. Lâ€™Ã©quipe de dÃ©veloppement. Elle est le plus souvent composÃ©e de 6 Ã  10 personnes. Il nâ€™y a pas de rÃ´les prÃ©dÃ©finis au sein de lâ€™Ã©quipe.
+    
+    
+La gestion des taches :
 
 
 
 
 
-
----> Le GIT et GITHUB :
-
-
-
-
+Le GIT et GITHUB :
 
 
 
