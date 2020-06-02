@@ -1,0 +1,27 @@
+﻿---> Planning du projet :
+
+	Pour finir le travail dans le délai proposé (deux mois), nous avons commencé par la mise
+	en place d’un chronogramme comportant la répartition des différentes tâches à réaliser au
+	cours du temps. En effet, nous avons choisi un cycle de vie itérative et incrémental en
+	utilisant un diagramme de GANTT.
+
+---> Diagramme de GANTT :
+	
+	Le diagramme de Gantt, couramment utilisé en gestion de projet, est l'un des outils les plus efficaces 
+	pour représenter visuellement l'état d'avancement des différentes activités (tâches) qui constituent un projet.
+	Ce diagramme permet donc de visualiser d'un seul coup d'œil :
+		+ Les différentes tâches à envisager.
+		+ La date de début et la date de fin de chaque tâche.
+		+ La durée escomptée de chaque tâche.
+		+ Le chevauchement éventuel des tâches, et la durée de ce chevauchement.
+		+ La date de début et la date de fin du projet dans son ensemble.
+	Le diagramme ci-après représente les différentes tâches effectuées durant notre projet :
+
+
+---> Figure X : Diagramme de GANTT :
+
+
+
+
+
+---> Figure X+1 : Planning du developpement :

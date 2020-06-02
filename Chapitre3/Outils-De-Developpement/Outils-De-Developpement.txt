@@ -1,0 +1,102 @@
+
+	---> Outils de developpement:
+	
+---> Introduction :
+	Dans cette partie de notre projet, nous allons presenter l'environnement logiciel de developpement de l'application que nous avons utilisé :
+
+---> UNITY 3D :
+	--> Introduction :
+
+		Unity 3D est un moteur 3D. C’est un logiciel permettant de créer des jeux vidéo 2D ou 3D. Il s’apparente à un logiciel de 
+		modélisation 3D comme Blender : il intègre donc une partie graphique et une partie programmation pour la création des projets.
+		Ce moteur à la fois un outil orienté graphisme, avec une interface agréable à prendre en main et orienté programmation avec 
+		une API très complète.
+
+	--> En quoi est-ce un moteur bien adapté aux Serious Games ?
+		
+		Les Serious Games sont des applications développées à partir des technologies avancées et du savoir-faire du jeu vidéo : 
+		3D temps réel, simulation d'objets, d'individus, d'environnements, scénario, etc. mais qui ne restent pas de nature strictement ludique.
+		Unity est un des moteurs les plus répandus dans l'industrie du jeu vidéo, du fait de sa rapidité aux prototypages pour les très gros studios, 
+		ainsi que dans la sphère du jeu indépendant qui développe directement avec ce moteur afin de produire des applications adaptées à tout support.
+
+	--> Forces et intérêts du logiciel :
+		
+		+ Unity dispose d’une interface graphique simplifiant la manipulation des éléments notamment pour les non-initiés aux joies du code.
+		+ Il est possible de manipuler les objets via cette interface lorsque votre programme est en cours d’exécution.
+		+ Il existe un Unity store dans lequel il est possible d’acheter des plugins et des assets graphiques, sonores, etc. Ce store est alimenté 
+		  par des développeurs indépendants qui vendent leurs outils de développement.
+		+ Le plus gros avantage de Unity est la possibilité d’exporter votre jeu pour n’importe quelle plateforme, sans avoir à modifier le code source.
+		+ Unity étant très connu, il existe une forte communauté qui s’entraide.
+		+ Unity permet d’importer les assets graphiques de quasiment tous les logiciels 3D.
+
+	--> La version utilisee :
+
+
+---> Visual Studio :
+	
+	--> Introduction :
+		Visual Studio est un ensemble d'outils de développement conçue par Microsoft, il permet de développer différents types d'applications 
+		(Windows, Web, Android, iOS, Cloud, etc.), en utilisant de nombreux langages de programmation dont C#, VB.NET, C++, JavaScript et bien plus.
+		Au fil des versions, Visual Studio est devenu un EDI robuste et peut, selon Microsoft, être « utilisé par n'importe quel développeur, pour mettre en place 
+		n'importe quelle application, pour n'importe quelle plate-forme ».
+	
+
+	--> Pourquoi visual studio pour unity :
+		Grâce à un partenariat avec moteur de jeux UNITY 2D et 3D, Microsoft propose via cette charge de travail un ensemble d'outils
+		Visual Studio pour Unity, permettant de développer des jeux multiplateformes, pouvant s'exécuter sur près de 21 plateformes, ainsi 
+		nombreuses nouvelles fonctionnalités pour faciliter la création de jeux, dont :
+		+ le support de l'IntelliSense pour les messages Unity.
+		+ la coloration syntaxique pour les messages Unity.
+		+ une meilleure évaluation des expressions dans le débogueur Unity.
+		+ et des optimisations de performances.
+	
+	--> La version utilisee :
+
+
+---> StarUML :
+	
+	--> Introduction :
+		StarUML est un logiciel de modélisation UML (Unified Modeling Language) open source
+		qui peut remplacer dans bien des situations des logiciels commerciaux et coûteux
+		comme Rational Rose ou Together. Étant simple d’utilisation, nécessitant peu de
+		ressources système, supportant UML 2, ce logiciel constitue une excellente option pour
+		une familiarisation à la modélisation. Cependant, seule une version Windows est
+		disponible.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
