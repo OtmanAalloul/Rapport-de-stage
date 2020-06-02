@@ -1,108 +1,51 @@
+Chapitre 2¬†:  Analyse et sp√©cification des besoins
 
----> Cahier des Charges :
+2.1 Cahier des Charges
 
-	--> Description :
+Un cahier des charges ou un CDC a pour fonction de formaliser un besoin afin que ce dernier soit compris par l‚Äôensemble des acteurs impliqu√©s dans le projet, et Comme nous avons vu notre objectif principal de ce projet est de cr√©er des jeux √©ducatifs pour t√©l√©phone mobile. Les jeux doivent √™tre les plus int√©ressants et les plus complets possible.
 
-		Un cahier des charges ou un CDC a pour fonction de formaliser un besoin afin que ce dernier soit compris par 
-		l'ensemble des acteurs impliquÈs dans le projet, et Comme nous avons vu notre objectif principal de ce projet 
-		est de creer des jeux educatifs pour telephone mobile. Les jeux doivent Ítre les plus intÈressants et les plus complets possible.
-		Notre cahier des charges consiste a apprendre par les deux themes  'langues' et 'science' du livre "Teach me to do myself",
-		deux fiches, puis realiser deux applications mobile d'un jeux serieux educatif, qui respectent les quatres fiches choisi,
-		puis rassembler les deux applications dans une.
-		Tout d'abord nous avons commence par le choix des fiches, puis l'analyse des ces fiches, et enfin la solution proposee pour chaque fiche
+Notre cahier des charges consiste √† apprendre par les deux th√®mes 'langues' et 'science' du livre "Teach me to do myself", deux fiches, puis r√©aliser deux applications mobiles d'un jeux s√©rieux √©ducatif, qui respectent les quatre fiches choisies, puis rassembler les deux applications dans une.
+Tout d'abord nous avons commenc√© par le choix des fiches, puis l'analyse de ces fiches, et enfin la solution propos√©e pour chaque fiche.
 
+2.2 Les objectifs du projet
 
----> Les objectifs du projet :
-		
-		Dans ce contexte notre projet consiste ‡ rÈaliser une bibliothËque de jeux Èducatifs (jeux sÈrieux) complÈmentaires.
-		autrement dit le but premier du projet est de crÈer une application mobile, flexible et Èducative, afin de :
-			+	Donner aux enfants la capacitÈ díagir sur leur expÈrience.
-			+	Permettre aux enfants de renforcer leurs capacitÈs de rÈsilience et díadaptation.
-			+	Permettre aux enfants de síapproprier leurs expÈriences et díy jouer un rÙle actif.
-			+	Permettre aux enfants de stimuler sa mÈmoire.
-			+	Permettre aux enfants de dÈvelopper des mÈthodes de travail, de suivre une logique, un raisonnement.
-			+	Permettre aux enfants de stimuler diverses compÈtences en mÍme temps: le verbal, le mental, la logique, le calcul Ö.
-	
----> Le livre Teach Me to Do it Myself :
+Dans ce contexte notre projet consiste √† r√©aliser une biblioth√®que de jeux √©ducatifs (jeux s√©rieux) compl√©mentaires. Autrement dit le but premier du projet est de cr√©er une application mobile, flexible et √©ducative, afin de :
+    ‚Ä¢ Donner aux enfants la capacit√© d‚Äôagir sur leur exp√©rience.
+    ‚Ä¢ Permettre aux enfants de renforcer leurs capacit√©s de r√©silience et d‚Äôadaptation.
+    ‚Ä¢ Permettre aux enfants de s‚Äôapproprier leurs exp√©riences et d‚Äôy jouer un r√¥le actif.
+    ‚Ä¢ Permettre aux enfants de stimuler sa m√©moire.
+    ‚Ä¢ Permettre aux enfants de d√©velopper des m√©thodes de travail, de suivre une logique, un raisonnement.
+    ‚Ä¢ Permettre aux enfants de stimuler diverses comp√©tences en m√™me temps : le verbal, le mental, la logique, le calcul ‚Ä¶.
+    ‚Ä¢ Permettre l‚Äôenfant de verbaliser sa pens√©e, √† argumenter ses choix et, donc, l‚Äôaide √† perfectionner son langage.
+    ‚Ä¢ Permettre l‚Äôenfant de jouer toute en libert√©.
+2.3 Le livre ‚ÄòTeach Me to Do it Myself‚Äô
 
-		BasÈ sur le principe Montessori clÈ selon lequel les enfants apprennent mieux gr‚ce ‡ une expÈrience active, Teach Me to Do It Myself 
-		prÈsente des activitÈs simples ‡ travers lesquelles les enfants explorent et dÈveloppent leurs compÈtences. Ces domaines de compÈtence 
-		comprennent les perceptions sensorielles, la coordination corporelle, le langage, la comprÈhension des nombres et le mouvement. Ce livre 
-		parental pratique et illustrÈ en couleurs est rempli d'activitÈs et d'instructions pour superviser les enfants pendant qu'ils effectuent 
-		une variÈtÈ d'activitÈs d'apprentissage. La plupart des activitÈs sembleront simples aux parents, car une fois maÓtrisÈes, les adultes 
-		les exÈcutent automatiquement. Cependant, les tout-petits Èprouvent un sentiment d'accomplissement et d'estime de soi lorsqu'ils apprennent 
-		‡ les exÈcuter de maniËre indÈpendante. Les nombreuses activitÈs commencent par l'habillage et l'hygiËne personnelle, puis incluent. . .
+Bas√© sur le principe Montessori cl√© selon lequel les enfants apprennent mieux gr√¢ce √† une exp√©rience active,  ‚Äú¬†Teach Me to Do It Myself‚Äù pr√©sente des activit√©s simples √† travers lesquelles les enfants explorent et d√©veloppent leurs comp√©tences. Ces domaines de comp√©tence comprennent les perceptions sensorielles, la coordination corporelle, le langage, la compr√©hension des nombres et le mouvement. Ce livre parental pratique et illustr√© en couleurs est rempli d'activit√©s et d'instructions pour superviser les enfants pendant qu'ils effectuent une vari√©t√© d'activit√©s d'apprentissage. La plupart des activit√©s sembleront simples aux parents, car une fois ma√Ætris√©es, les adultes les ex√©cutent automatiquement. Cependant, les tout-petits √©prouvent un sentiment d'accomplissement et d'estime de soi lorsqu'ils apprennent √† les ex√©cuter de mani√®re ind√©pendante. Les nombreuses activit√©s commencent par l'habillage et l'hygi√®ne personnelle, puis incluent. . 
 
+2.4 Choix des fiches
 
----> Choix des fiches : 
+Apr√®s avoir √©tudi√© et analys√© chaque fiche du livre, nous avons concentr√© sur les fiches les plus int√©ressantes, et les plus √©ducatives, ci-dessous les fiches choisies :
+Dans le chapitre LANGUAGE DEVELOPMENT on a choisi : 
+    ‚Ä¢ Identifying letters.
+    ‚Ä¢ Word building.
+Et dans le chapitre SCIENCE SKILLS on a choisi : 
+    ‚Ä¢ Discovering the weather.
+    ‚Ä¢ Understanding volume.
+Description des fiches :
+    ‚Ä¢ Identifying letters :
+        ‚ó¶ Lors de leur entr√©e √† l‚Äô√©cole, les enfants commencent √† apprendre la comptine de l‚Äôalphabet, puis √† identifier et √©crire les lettres. 
+        ‚ó¶ L'objectif principale de cette fiche se d√©roule sur les symboles √©crits pour diff√©rentes lettres. L'activit√© de cette fiche est : au d√©but on utilise un bac √† sel pour √©crire une lettre qui doit ensuite apparie dans une feuille, lorsque l'enfant devient capable d'identifier les lettres on va lui montrer plus d'activit√©s et lui permettre de jouer afin de bien ma√Ætriser les lettres.
+    ‚Ä¢ Word building :
+        ‚ó¶ Apr√®s avoir termin√© l‚Äôidentification des lettres, la partie de la construction des mots est tr√®s importante vers le but final de la lecture. L'activit√© de cette fiche est de permettre √† l‚Äôenfant de construire un mot gr√¢ce √† des lettres pr√©sent√©es.
+    ‚Ä¢ Discovering the weather :
+        ‚ó¶ Avec les changements climatiques, il est important pour les enfants √† d√©couvrir la m√©t√©o, L'objectif principale de cette fiche se d√©roule sur la m√©t√©orologiques, dont l'activit√© est de permettre aux enfants savoir comment une pomme de pin est sensible aux changements m√©t√©orologiques.
+    ‚Ä¢ Understanding volume :
+        ‚ó¶ Cette fiche repr√©sente une introduction simple et efficace √† l‚Äôenfant afin de lui permettre de comprendre le volume et de l'estimer, L'activit√© de cette fiche est de prendre deux verres et l'enfant doit √™tre capable de d√©terminer quel est le verre qui contient le plus d'eau.
 
-		Apres avoir etudie et analyse chaque fiche du livre, nous avons concentre de choisir les fiches les plus interressantes, 
-		et les plus educatives, ci-dessous les fiches choisies :
-		Dans le chapitre LANGUAGE DEVELOPMENT on a choisi : 
-			--> Identifying letters.
-			--> Word building.
-		Et dans le chapitre SCIENCE SKILLS on a choisi : 
-			--> Discovering the weather.
-			--> Understanding volume.
+2.5 Description g√©n√©rale du projet
 
-		
-
---> description des fiches :	
-
-		--> Identifying letters :
-			
-			Lors de leur entrÈe ‡ líÈcole, les enfants commencent ‡ apprendre la comptine de líalphabet, puis ‡ identifier et Ècrire les lettres.
-			L'objectif principale de cette fiche se deroule sur les symboles Ècrits pour diffÈrents lettres. L'activite de cette fiche est : au debut on utilise
-			un bac ‡ sel pour ecrire une lettre qui doit ensuite apparie dans une feuille, lorsque l'enfant devient capable d'identifier les lettres
-			on va lui montrer plus d'activites et lui permettre de jouer afin de bien maÓtriser les lettres.
-
-
-		--> Word building :
-			
-			Apres avoir terminer l'indentification des lettres, la partie de la construction des mots est tres importantes vers le but final de la lecture.
-			L'activite de cette fiche est de permettre au enfant de construire un mot grace a des lettres presentees.
-
-
-		--> Discovering the weather :
-
-			Avec les changements climatique, il plus important que les enfants il doivent decouvrir la meteo, L'objectif principale de cette fiche se deroule sur
-			la mÈtÈorologiques, dont l'activite est de permettre aux enfants savoir  comment une pomme de pin est sensible aux changements mÈtÈorologiques.
-
-
-		--> Understanding volume :
-
-			Cette fiche represente une introduction simple et efficace au enfant afin de lui permettre de comprendre le volume et de l'estime, 
-			L'activite de cette fiche est de prendre deux verres et l'enfant doit etre capable de determiner quel est le verre qui contient le plus d'eau.
-
-
-
----> Description generale du projet :
-
-	Comme nous avons deja vu Líobjectif premier du projet est de crÈer des jeux Èducatifs pour tÈlÈphone mobile. Les jeux doivent Ítre les plus intÈressants et les plus 
-	complets possible, compte tenu a ca voila les differentes fonctionnalites qu'on va les suivent :
-		+ CrÈer un mini jeu jouable sur Android.
-		+ Rendre l'application jouable sur tous les supports mobiles.
-		+ CrÈer d'autres mini jeux.
-		+ Les regrouper en une seule application qui fait appel ‡ ces jeux selon le dÈsire de l'enfant.
-		+ Concevoir et ajouter des badges.
-		+ Concevoir et ajouter une monÈtisation (gain de piËces dans les niveaux, personnalisation du jeu).
-		+ Concevoir et un ajouter des scËnes/animations de fÈlicitation (aprËs chaque rÈponse correcte).
-
-
---> Les solutions proposees pour chaque fiche:	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Comme nous avons d√©j√† vu, l‚Äôobjectif premier du projet est de cr√©er des jeux √©ducatifs multiplate-formes . Les jeux doivent √™tre les plus int√©ressants et les plus complets possible, compte tenu √† √ßa,  voil√† les diff√©rentes fonctionnalit√©s qu'on va les suivent :
+    ‚Ä¢ Cr√©er des mini jeux jouables sur Android.
+    ‚Ä¢ Les regrouper en une seule application qui fait appel √† ces jeux selon le d√©sire de l'enfant.
+    ‚Ä¢ Rendre l'application jouable sur tous les supports mobiles (les autres plateformes).
 
