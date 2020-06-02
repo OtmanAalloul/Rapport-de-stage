@@ -18,7 +18,7 @@
 		---> Montessori
 			->
 			->
-		---> Analyse du projet
+		---> Les jeux serieux
 			-> Introduction 
 			-> Le jeu et son importance pour l’apprentissage
 			-> L'efficacité d'apprentissage par le jeu
@@ -28,9 +28,9 @@
 		---> Les objectifs du projet
 		---> Le livre Teach Me to Do it Myself
 		---> Choix des fiches
-		---> Analyse des fiches
+		---> Description des fiches
 		---> Description generale du projet
-		---> Les solutions proposees
+		---> Les solutions proposees pour chaque fiches
 	-> Chapitre 3 : L'organisation du projet :
 		---> Methodologie de travail
 			->
