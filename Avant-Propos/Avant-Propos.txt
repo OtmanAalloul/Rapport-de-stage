@@ -1,5 +1,0 @@
-Avant-propos
-
-La Formation licence fondamentale Sciences Mathématiques et Informatiques du département informatique de la faculté des sciences Semlalia Marrakech est complétée par un projet tutoré de deux mois, du 1ére mai au 30 juin, afin d’adapter la formation académique aux exigences du marché de l’emploi, rendre plus pratique les connaissances théoriques acquises durant les années d’études, donner une vision du domaine du travail et préparer l’étudiant à l’insertion au domaine professionnel.
-
-Compte tenu de la crise mondiale actuelle à cause du covid-19, on a effectué ce stage depuis nos maisons sous la direction de  Pr E. Abdelwahed (Professeur à la faculté des sciences Semlalia à Marrakech), ce dernier nous a proposé de collaborer à la réalisation et au développement d'un projet qui se déroule sur la réalisation d’une application mobile flexible et pédagogique, afin de donner aux enfants la capacité  d’agir sur leur expérience et de la maîtriser, renforçant ainsi leurs capacités de résilience et d'adaptation.
