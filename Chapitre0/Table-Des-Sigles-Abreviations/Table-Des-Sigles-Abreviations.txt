@@ -1,0 +1,8 @@
+	
+	---> La liste des sigles et des abriviations :
+
+	+ FSSM : La faculte des sciences Semalila a Marrakech
+	+ UCA : Universite Cady Ayyad
+	+ LISI : Laboratoire d’ingénierie des systèmes informatiques
+	+ MVC : Architecture “Modèle, Vue, Contrôleur”
+	+ UML : Langage de modélisation unifié
